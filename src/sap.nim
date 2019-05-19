@@ -63,7 +63,7 @@ func findAngle*(x: float32, v: float32): float32 =
 ]#
 
 proc main =
-  randomize()
+  randomize(10000)
 
   # NN Setup
 
