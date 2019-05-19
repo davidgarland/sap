@@ -1,4 +1,8 @@
 # Sap
-This is my attempt at writing a neural network engine, moreso for learning than for other people's use.
+## "Summer AI Project" from 2018
 
-I'd advise just ignoring this for the time being-- though that may change in the future.
+This was basically just my effort towards learning how to make a really simple
+neural network to do some trivial task-- in this case, teaching it how to calculate
+what angle to shoot a ball at given some target at "x" distance away.
+
+It's programmed in Nim using Arraymancer (for the neural network), SDL2 (for 2D rendering), and Sol (for the vector math).
