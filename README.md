@@ -1,7 +1,7 @@
 # Sap
 ## "Summer AI Project" from 2018
 
-This was basically just my effort towards learning how to make a really simple
+This was basically just my effort towards learning how to apply a really simple
 neural network to do some trivial task-- in this case, teaching it how to calculate
 what angle to shoot a ball at given some target at "x" distance away.
 
